@@ -10,10 +10,16 @@ Lightweight widget, updates data from VRM API once per minute
 Show :-
 
 State of Charge
+
 AC in
+
 Generator In
+
 PV In
+
 AC Consumption
+
+
 
 AC, Generator and PV In only show when active
 
