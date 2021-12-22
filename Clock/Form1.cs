@@ -100,7 +100,7 @@ namespace Clock
 				if (items[i]) itemCnt++;
 			}
 
-			language = getConfigString("lang");
+			language = getConfigString("language");
 			if (string.IsNullOrEmpty(language)) language = "en-US";
 
 			timer1_Tick(null, null);
